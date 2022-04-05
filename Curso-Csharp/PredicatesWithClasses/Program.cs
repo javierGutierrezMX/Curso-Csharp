@@ -48,10 +48,10 @@ namespace PredicatesWithClasses
                 WriteLine("Do you want to do something else? (y/n)");
                 var respond = ReadLine();
                 if (respond == "n") band = false;
-            } 
+            }
             while (band == true);
-            
-            
+
+
         }
 
         public static void Searcher(int option, string input, string input2 = null)
@@ -172,7 +172,7 @@ namespace PredicatesWithClasses
     }
     class Pet
     {
-        public string Name{ get; set; }
+        public string Name { get; set; }
         public string ResponsableName { get; set; }
         public int Age { get; set; }
         public DateTime Birthday { get; set; }
@@ -196,10 +196,10 @@ namespace PredicatesWithClasses
         }
         public static bool GetByBirthday(Pet pet)
         {
-            var isDate1= DateTime.TryParse(User.Input, out DateTime Bdate1);
+            var isDate1 = DateTime.TryParse(User.Input, out DateTime Bdate1);
             var isDate2 = DateTime.TryParse(User.Input2, out DateTime Bdate2);
 
-            
+
             if (isDate1 && isDate2)
             {
                 if (Bdate1 > Bdate2)
@@ -208,7 +208,7 @@ namespace PredicatesWithClasses
                        ?
                        true : false;
                 }
-                else if(Bdate2 > Bdate1)
+                else if (Bdate2 > Bdate1)
                 {
                     return (pet.Birthday > Bdate1) && (pet.Birthday < Bdate2)
                        ?
@@ -222,7 +222,7 @@ namespace PredicatesWithClasses
                 }
 
             }
-                
+
             else
                 return false;
         }
@@ -261,9 +261,9 @@ namespace PredicatesWithClasses
 
         public static bool GetByKind(Pet pet)
         {
-                return pet.IsAquatic.Equals(true);
+            return pet.IsAquatic.Equals(true);
         }
-        
+
     }
 
     class User
@@ -272,5 +272,11 @@ namespace PredicatesWithClasses
         public static string Input2 { get; set; }
         public static int Option { get; set; }
     }
-  
+    //class LambdaExpression
+    //{
+
+    //    private static List<int> list = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+    //    public static List<int>
+    //}
+
 }

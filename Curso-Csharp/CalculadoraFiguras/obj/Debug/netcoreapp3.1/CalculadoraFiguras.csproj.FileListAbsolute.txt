@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\bin\Debug\netcoreapp3.1\CalculadoraFiguras.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\bin\Debug\netcoreapp3.1\CalculadoraFiguras.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\bin\Debug\netcoreapp3.1\CalculadoraFiguras.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\bin\Debug\netcoreapp3.1\CalculadoraFiguras.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\bin\Debug\netcoreapp3.1\CalculadoraFiguras.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\bin\Debug\netcoreapp3.1\CalculadoraFiguras.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\CalculadoraFiguras\obj\Debug\netcoreapp3.1\CalculadoraFiguras.genruntimeconfig.cache

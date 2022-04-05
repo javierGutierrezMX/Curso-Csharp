@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.genruntimeconfig.cache
