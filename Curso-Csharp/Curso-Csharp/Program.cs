@@ -6,8 +6,11 @@ namespace CursoIntegon
 {
     class Program
     {
+        delegate void Del();
+        delegate void Del2(string message);
         static void Main(string[] args)
         {
+            #region Dia_uno
             //    List<obj> lista = new List<obj>() {
             //         new obj {Id =1,nombre = "obj1"},
             //         new obj {Id =2,nombre = "obj2"},
@@ -86,65 +89,98 @@ namespace CursoIntegon
             //Console.WriteLine("Valles caminados : " + valles);
 
 
-            int[] a = { 1, 2, 3, 4, 5, 6, 7, 8 };
-            int[] aDesor = { 1, 3, 2, 4, 5, 8, 6, 7 };
-            int movimientos = 0;
-            var band = false;
+            //int[] a = { 1, 2, 3, 4, 5, 6, 7, 8 };
+            //int[] aDesor = { 1, 3, 2, 4, 5, 8, 6, 7 };
+            //int movimientos = 0;
+            //var band = false;
 
-            for (int i = 0; i < aDesor.Length; i++)
+            //for (int i = 0; i < aDesor.Length; i++)
+            //{
+            //    var posFin = i;
+            //    var posIni = Array.IndexOf(a, aDesor[i]);
+            //    var movTemp = posIni - posFin;
+
+
+            //    if (movTemp > 2)
+            //    {
+            //        band = true;
+            //        Console.WriteLine("Too Cahotic");
+            //        break;
+            //    }
+            //    else if (movTemp > 0)
+            //    {
+            //        movimientos += movTemp;
+            //    }
+            //}
+
+            //if (!band)
+            //{
+            //    if (movimientos > 0) Console.WriteLine("Movimientos: " + movimientos);
+            //    else Console.WriteLine("La fila sigue igual");
+            //}
+            #endregion
+            #region Dia_dos
+
+            MainMethod();
+
+            static void MainMethod()
             {
-                var posFin = i;
-                var posIni = Array.IndexOf(a, aDesor[i]);
-                var movTemp = posIni - posFin;
-
-
-                if (movTemp > 2)
-                {
-                    band = true;
-                    Console.WriteLine("Too Cahotic");
-                    break;
-                }
-                else if (movTemp > 0)
-                {
-                    movimientos += movTemp;
-                }
+                Del del = new Del(Message.Show);
+                del();
+                Del2 del2 = new Del2(Message2.Show);
+                del2("Delegado con parametros");
             }
+            
 
-            if (!band)
+            #endregion
+        }
+
+
+        #region agregados_dia_uno
+        //public class obj
+        //{
+        //    public int Id { get; set; }
+        //    public string nombre { get; set; }
+
+
+        //}
+
+        //public static obj GetByName(List<obj> lista, string name)
+        //{
+        //    return lista.Where(x => x.nombre == name).FirstOrDefault();
+        //}
+        //public static obj GetByIndex(List<obj> lista, int index)
+        //{
+        //    return lista.Where(x => x.Id == index).FirstOrDefault();
+        //}
+        //public static string DeleteByIndex(List<obj> lista, int index)
+        //{
+        //    lista.RemoveAt(index - 1);
+        //    return "Objeto en posicion " + index + " borrado";
+        //}
+        //public static List<obj> InsertByIndex(List<obj> lista, int index, obj objeto)
+        //{
+        //    lista.Insert(index - 1, objeto);
+        //    var newList = lista;
+        //    return newList;
+        //}
+        #endregion
+        #region agregados_dia_dos
+        public class Message
+        {
+            public static void Show()
             {
-                if (movimientos > 0) Console.WriteLine("Movimientos: " + movimientos);
-                else Console.WriteLine("La fila sigue igual");
+                Console.WriteLine("Esto es un delegado");
+            }
+        }
+        public class Message2
+        {
+            public static void Show(string message)
+            {
+                Console.WriteLine("Su mensaje: " + message);
             }
         }
 
-
-
-        public class obj
-        {
-            public int Id { get; set; }
-            public string nombre { get; set; }
-
-
-        }
-
-        public static obj GetByName(List<obj> lista, string name)
-        {
-            return lista.Where(x => x.nombre == name).FirstOrDefault();
-        }
-        public static obj GetByIndex(List<obj> lista, int index)
-        {
-            return lista.Where(x => x.Id == index).FirstOrDefault();
-        }
-        public static string DeleteByIndex(List<obj> lista, int index)
-        {
-            lista.RemoveAt(index - 1);
-            return "Objeto en posicion " + index + " borrado";
-        }
-        public static List<obj> InsertByIndex(List<obj> lista, int index, obj objeto)
-        {
-            lista.Insert(index - 1, objeto);
-            var newList = lista;
-            return newList;
-        }
+        #endregion
     }
 }

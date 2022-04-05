@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\bin\Debug\netcoreapp3.1\Curso-Csharp.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\bin\Debug\netcoreapp3.1\Curso-Csharp.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\bin\Debug\netcoreapp3.1\Curso-Csharp.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\bin\Debug\netcoreapp3.1\Curso-Csharp.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\bin\Debug\netcoreapp3.1\Curso-Csharp.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\bin\Debug\netcoreapp3.1\Curso-Csharp.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Curso-Csharp\obj\Debug\netcoreapp3.1\Curso-Csharp.genruntimeconfig.cache
