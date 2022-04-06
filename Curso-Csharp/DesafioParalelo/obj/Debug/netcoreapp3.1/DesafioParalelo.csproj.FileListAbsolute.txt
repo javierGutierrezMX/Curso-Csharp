@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\bin\Debug\netcoreapp3.1\DesafioParalelo.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\bin\Debug\netcoreapp3.1\DesafioParalelo.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\bin\Debug\netcoreapp3.1\DesafioParalelo.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\bin\Debug\netcoreapp3.1\DesafioParalelo.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\bin\Debug\netcoreapp3.1\DesafioParalelo.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\bin\Debug\netcoreapp3.1\DesafioParalelo.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.genruntimeconfig.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioParalelo\obj\Debug\netcoreapp3.1\DesafioParalelo.csproj.AssemblyReference.cache

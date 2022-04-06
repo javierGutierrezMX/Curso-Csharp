@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\bin\Debug\netcoreapp3.1\DesafioAsync.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\bin\Debug\netcoreapp3.1\DesafioAsync.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\bin\Debug\netcoreapp3.1\DesafioAsync.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\bin\Debug\netcoreapp3.1\DesafioAsync.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\bin\Debug\netcoreapp3.1\DesafioAsync.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\bin\Debug\netcoreapp3.1\DesafioAsync.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\DesafioAsync\obj\Debug\netcoreapp3.1\DesafioAsync.genruntimeconfig.cache

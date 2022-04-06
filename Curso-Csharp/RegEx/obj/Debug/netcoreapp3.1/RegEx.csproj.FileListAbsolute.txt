@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\bin\Debug\netcoreapp3.1\RegEx.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\bin\Debug\netcoreapp3.1\RegEx.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\bin\Debug\netcoreapp3.1\RegEx.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\bin\Debug\netcoreapp3.1\RegEx.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\bin\Debug\netcoreapp3.1\RegEx.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\bin\Debug\netcoreapp3.1\RegEx.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\RegEx\obj\Debug\netcoreapp3.1\RegEx.genruntimeconfig.cache

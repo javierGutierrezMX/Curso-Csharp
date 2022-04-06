@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso-Csharp", "Curso-Csharp\Curso-Csharp.csproj", "{C4F5EEF3-E00B-42E9-B146-B2EA0643CDA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curso-Csharp", "Curso-Csharp\Curso-Csharp.csproj", "{C4F5EEF3-E00B-42E9-B146-B2EA0643CDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicates", "Predicates\Predicates.csproj", "{4FFD7BFC-78C1-4A78-9E42-F5726AC0F0D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predicates", "Predicates\Predicates.csproj", "{4FFD7BFC-78C1-4A78-9E42-F5726AC0F0D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicatesWithClasses", "PredicatesWithClasses\PredicatesWithClasses.csproj", "{B6AD3F5D-4DBE-4032-87B1-98C06AEE9656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredicatesWithClasses", "PredicatesWithClasses\PredicatesWithClasses.csproj", "{B6AD3F5D-4DBE-4032-87B1-98C06AEE9656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{BA87FE8F-59E0-4814-A93D-5F3728EF1734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{BA87FE8F-59E0-4814-A93D-5F3728EF1734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraFiguras", "CalculadoraFiguras\CalculadoraFiguras.csproj", "{7DD5F93C-A8C8-4B0A-96A2-00F7E4A16340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraFiguras", "CalculadoraFiguras\CalculadoraFiguras.csproj", "{7DD5F93C-A8C8-4B0A-96A2-00F7E4A16340}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegEx", "RegEx\RegEx.csproj", "{6C6D9AB9-1653-44B2-A199-E6D06DF3E583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{A0C1A169-C436-4728-BD4D-CB933395B1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioAsync", "DesafioAsync\DesafioAsync.csproj", "{030EE43B-05D2-484E-BE29-B0ECB176A2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioParalelo", "DesafioParalelo\DesafioParalelo.csproj", "{F350E608-A184-49CE-87E8-7A7475DF18CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{7DD5F93C-A8C8-4B0A-96A2-00F7E4A16340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DD5F93C-A8C8-4B0A-96A2-00F7E4A16340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DD5F93C-A8C8-4B0A-96A2-00F7E4A16340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6D9AB9-1653-44B2-A199-E6D06DF3E583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6D9AB9-1653-44B2-A199-E6D06DF3E583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6D9AB9-1653-44B2-A199-E6D06DF3E583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6D9AB9-1653-44B2-A199-E6D06DF3E583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C1A169-C436-4728-BD4D-CB933395B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C1A169-C436-4728-BD4D-CB933395B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C1A169-C436-4728-BD4D-CB933395B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C1A169-C436-4728-BD4D-CB933395B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030EE43B-05D2-484E-BE29-B0ECB176A2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030EE43B-05D2-484E-BE29-B0ECB176A2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030EE43B-05D2-484E-BE29-B0ECB176A2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030EE43B-05D2-484E-BE29-B0ECB176A2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F350E608-A184-49CE-87E8-7A7475DF18CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F350E608-A184-49CE-87E8-7A7475DF18CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F350E608-A184-49CE-87E8-7A7475DF18CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F350E608-A184-49CE-87E8-7A7475DF18CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

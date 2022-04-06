@@ -170,5 +170,17 @@ namespace LambdaExpressions
         }
 
     }
+    class ActionCalculator
+    {
+        public static void ActionLambda(double x, double y)
+        {
+            Action<double, double> addition = (x, y) => 
+            {
+                WriteLine(x + y);
+            };
+            addition(x, y);
+        }
+       
+    }
 }
 
