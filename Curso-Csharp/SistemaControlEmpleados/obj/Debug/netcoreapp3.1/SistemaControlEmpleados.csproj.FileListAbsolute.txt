@@ -1,0 +1,15 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\SistemaControlEmpleados.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\SistemaControlEmpleados.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\SistemaControlEmpleados.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\SistemaControlEmpleados.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\SistemaControlEmpleados.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\SistemaControlEmpleados.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.genruntimeconfig.cache

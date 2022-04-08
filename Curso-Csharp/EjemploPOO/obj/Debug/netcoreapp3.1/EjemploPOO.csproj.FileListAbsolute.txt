@@ -1,0 +1,14 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.genruntimeconfig.cache
