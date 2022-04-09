@@ -7,7 +7,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using static System.Console;
 using System.Globalization;
-using System.Threading;
 namespace EjemploPOO
 {
     class Program

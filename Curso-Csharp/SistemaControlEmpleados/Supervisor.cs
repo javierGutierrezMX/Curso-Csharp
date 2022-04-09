@@ -7,7 +7,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using static System.Console;
 using System.Globalization;
-using System.Threading;
 using Newtonsoft.Json;
 
 namespace SistemaControlEmpleados
@@ -31,10 +30,7 @@ namespace SistemaControlEmpleados
                 switch (option)
                 {
                     case 1:
-                        foreach (var item in list)
-                        {
-                            WriteLine($"Id : {item.Id}  Name : {item.Name}   Pending check : {item.PendingHours}");
-                        }
+                        PrintEmployee(list);
                         break;
                     case 2:
                         WriteLine("Id: ");
@@ -46,15 +42,19 @@ namespace SistemaControlEmpleados
                         Employee tempNew = new Employee() {Id = (int) id, Name = name, Pass = pass, EntryDate = DateTime.Today, isSupervisor = false};
                         list.Add(tempNew);
                         WriteLine("Employee added succefully!!");
+                        PrintEmployee(list);
                         break;
                     case 3:
+                        PrintEmployee(list);
                         WriteLine("Id: ");
                         Int32.TryParse(ReadLine(), out int idDelete);
                         var tempDelete = list.Where(x => x.Id == idDelete).FirstOrDefault();
                         list.Remove(tempDelete);
                         WriteLine("Employee deleted succefully!!");
+                        PrintEmployee(list);
                         break;
                     case 4:
+                        PrintEmployee(list);
                         WriteLine("Id of Employee: ");
                         Int32.TryParse(ReadLine(), out int idEdit);
                         var tempEdit1 = list.Where(x => x.Id == idEdit).FirstOrDefault();
@@ -62,38 +62,71 @@ namespace SistemaControlEmpleados
                         var nameEdit = ReadLine();
                         WriteLine("New Pass: ");
                         var passEdit = ReadLine();
+                        // no borrar y editar elemento de lista
                         Employee tempEdit2 = new Employee() { Id = idEdit, Name = nameEdit, Pass = passEdit, EntryDate = tempEdit1.EntryDate, isSupervisor = false };
                         list.Remove(tempEdit1);
                         list.Add(tempEdit2);
                         WriteLine("Employee edited succefully!!");
+                        PrintEmployee(list);
                         break;
                     default:
                         WriteLine("Invalid option!!!");
                         break;
 
                 };
-                WriteLine("Do you want to do something else? (y/n)");
+                WriteLine("Do you want to return to CRUD menu (y) or validate hours (n)? (y/n)");
                 var respond = ReadLine();
                 if (respond == "n") band = false;
             }
             while (band == true);
         }
 
-        public void ValidateHours(Employee emp)
+        public void ValidateHours(List<Employee> list)
         {
-            WriteLine("The pending hours are ok? (y/n): ");
-            var respond = ReadLine();
-            if (respond != "n")
+            WriteLine("Select an Employee for approve the hours: ");
+            PrintEmployee(list);
+            WriteLine("Id for approve : ");
+            Int32.TryParse(ReadLine(), out int idValidate);
+            var tempValidate = list.Where(x => x.Id == idValidate).FirstOrDefault();
+            if (tempValidate != null)
             {
-                emp.RegistredWeeks.Last().isChecked = true;
-                emp.RegistredWeeks.Last().isAproved = true;
+                PrintEmployeeHours(tempValidate.RegistredWeeks);
+                WriteLine($"The pending hours ( {tempValidate.WeekInProgress.AmountHours} ) from {tempValidate.Name} are ok? (y/n): ");
+                var respond = ReadLine();
+                if (respond != "n")
+                {
+                    tempValidate.RegistredWeeks.Last().isChecked = true;
+                    tempValidate.RegistredWeeks.Last().isAproved = true;
+                }
+                else
+                {
+                    tempValidate.RegistredWeeks.Last().isChecked = true;
+                    tempValidate.RegistredWeeks.Last().isAproved = false;
+                }
+                WriteLine("The task is done!!!");
             }
-            else
+            else WriteLine("Error with the selected id, try it again");
+        }
+        protected void PrintEmployee(List<Employee> list)
+        {
+            foreach (var item in list)
             {
-                emp.RegistredWeeks.Last().isChecked = true;
-                emp.RegistredWeeks.Last().isAproved = false;
+                WriteLine($"Id : {item.Id} ---" +
+                          $" Name : {item.Name} ---" +
+                          $"  Pending check : {item.PendingHours} ---");
             }
-            WriteLine("The task is done!!!");
+        }
+        protected void PrintEmployeeHours(List<RegistredWeeks> list)
+        {
+            foreach (var item in list)
+            {
+                WriteLine($"" +
+                    $"Hours : {item.AmountHours}  " +
+                    $"Description : {item.Description}  " +
+                    $"Date : {item.RegisDate.ToShortDateString()} " +
+                    $"Check : {(item.isChecked ? "Yes" : "No")} " +
+                    $"Approved: { (item.isAproved ? "Yes" : "No")} ");
+            }
         }
     }
 }

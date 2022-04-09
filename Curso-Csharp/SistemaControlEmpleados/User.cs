@@ -19,15 +19,12 @@ namespace SistemaControlEmpleados
         public string Pass { get; set; }
         public DateTime EntryDate { get; set; }
         public bool isSupervisor { get; set; }
-
-
-
         public Tuple<bool, User> SignIn(string name, string pass, List<User> list)
         {
             var user = list.Where(x => x.Name == name && x.Pass == pass).FirstOrDefault();
             if (user != null)
             {
-                WriteLine(Seed.WelcomMessage + (user.isSupervisor ? "Supervisor: " : "") + user.Name);
+                WriteLine(Seed.WelcomMessage + user.Name + (user.isSupervisor ? " (Supervisor) " : ""));
                 if (user.EntryDate == DateTime.Today)
                     WriteLine(Seed.YearCelebrationMessage);
                 return new Tuple<bool, User>(true, user);

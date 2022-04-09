@@ -13,19 +13,31 @@ namespace SistemaControlEmpleados
 {
      public class Employee : User
     {
-        public RegistredWeeks   WeekInProgress { get; set; }
-        public List<RegistredWeeks> RegistredWeeks { get; set; } = new List<RegistredWeeks>();
-        public bool PendingHours {
+        public RegistredWeeks   WeekInProgress {
             get
             {
-                if (RegistredWeeks.Select(x => x.isChecked == false) != null)
-                    return true;
-                else return false;
-            }
+                if (RegistredWeeks.Any())
+                {
+                    return RegistredWeeks.Where(x => x.isChecked == false).OrderByDescending(x => x.RegisDate).FirstOrDefault();
                 }
-        public void SetHoursOfWeek(int hours)
+                return null;
+            }
+            }
+        public List<RegistredWeeks> RegistredWeeks { get; set; } = new List<RegistredWeeks>();
+        public bool PendingHours
         {
-            RegistredWeeks thisWeek = new RegistredWeeks() { AmountHours = hours, RegisDate = DateTime.Today, isChecked = false, isAproved = false };
+            get
+            {
+                if (RegistredWeeks.Any())
+                {
+                    return RegistredWeeks.Where(x => x.isChecked == false).Count() > 0 ? true : false;
+                }
+                return false;
+            }
+        } 
+        public void SetHoursOfWeek(int hours, string description)
+        {
+            RegistredWeeks thisWeek = new RegistredWeeks() { AmountHours = hours, RegisDate = DateTime.Today, isChecked = false, isAproved = false, Description = description };
             RegistredWeeks.Add(thisWeek);
         }
     }
@@ -34,6 +46,7 @@ namespace SistemaControlEmpleados
     {
         public DateTime RegisDate { get; set; }
         public int AmountHours { get; set; }
+        public string Description { get; set; }
         public bool  isAproved { get; set; }
         public bool isChecked { get; set; } = false;
     }

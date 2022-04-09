@@ -7,7 +7,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using static System.Console;
 using System.Globalization;
-using System.Threading;
 using Newtonsoft.Json;
 
 namespace SistemaControlEmpleados
@@ -16,44 +15,29 @@ namespace SistemaControlEmpleados
     {
         static void Main(string[] args)
         {
-            var list =  new List<User> () 
-              {
-            new Employee(){Id = 1, Name = "Javier", Pass = "123", EntryDate = DateTime.Today.AddDays(1), isSupervisor = false},
-            new Supervisor(){Id = 2,Name = "Catalino", Pass = "123", EntryDate = DateTime.Today.AddDays(1), isSupervisor = true},
-            new Employee(){Id = 3,Name = "Cheto", Pass = "123", EntryDate = DateTime.Today.AddDays(1), isSupervisor = false},
-            new Employee(){Id = 4,Name = "Michi", Pass = "123", EntryDate = DateTime.Today.AddDays(1), isSupervisor = false},
-            new Supervisor(){Id = 5,Name = "Ilse", Pass = "123", EntryDate = DateTime.Today.AddDays(1), isSupervisor = true},
-            new Employee(){Id = 6,Name = "Carlos", Pass = "123", EntryDate = DateTime.Today.AddDays(1), isSupervisor = false}
-             };
-
-            var tempEmp = list.Where(x => x.GetType() == typeof(Employee)).ToList();
-            List<Employee> employees = new List<Employee>();
-            foreach (var item in tempEmp)
-            {
-                var serializedParent = JsonConvert.SerializeObject(item);
-                Employee c = JsonConvert.DeserializeObject<Employee>(serializedParent);
-                employees.Add(c);
-            }
-
+            //cambiar list
+            var list = Seed.GetUsers();
+            var employees = Seed.GetEmployee(list);
             var band = true;
             do
             {
+                WriteLine("\tWelcome to the HourManager System.");
+                WriteLine("\nSign In......");
                 WriteLine("Name: ");
                 var name = ReadLine();
                 WriteLine("Pass: ");
                 var pass = ReadLine();
                 User u = new User();
-                var canPass = u.SignIn(name, pass, list).Item1;
-                u = u.SignIn(name, pass, list).Item2;
-                
+                Tuple<bool, User> result = u.SignIn(name, pass, list);
+                bool canPass = result.Item1;
+                u = result.Item2;
+                //user != null, y borramos la tupla en sign in, try catch, con excepcion en signin
                 if (canPass)
                 {
                     if (u.isSupervisor)
                     {
                         var userS = JsonConvert.SerializeObject(u);
                         Supervisor sup = JsonConvert.DeserializeObject<Supervisor>(userS);
-
-
                         var band2 = true;
                         do
                         {
@@ -62,7 +46,6 @@ namespace SistemaControlEmpleados
                                  + "\n 2.-Validate Hours"
                                  + "\n Please enter an option : "
                                  );
-
                             Int32.TryParse(ReadLine(), out int option);
                             switch (option)
                             {
@@ -70,45 +53,37 @@ namespace SistemaControlEmpleados
                                     sup.CRUD(employees);
                                     break;
                                 case 2:
-                                    WriteLine("Id: ");
-                                    Int32.TryParse(ReadLine(), out int idDelete);
-                                    var tempValidate = employees.Where(x => x.Id == idDelete).FirstOrDefault();
-                                    sup.ValidateHours(tempValidate);
+                                    sup.ValidateHours(employees);
                                     break;
                                 default:
                                     WriteLine("Invalid option!!!");
                                     break;
-
                             };
                             WriteLine("Do you want to do something else? (y/n)");
                             var respond2 = ReadLine();
                             if (respond2 == "n") band2 = false;
                         }
                         while (band2 == true);
-                        
                     }
                     else
                     {
                         Employee empOld = employees.Where(x => x.Id == u.Id).FirstOrDefault();
-
+                        WriteLine("Register your hours...");
                         WriteLine("Hours of this week: ");
                         Int32.TryParse(ReadLine(), out int hours);
-                        empOld.SetHoursOfWeek(hours);
+                        WriteLine("what did you do ?: ");
+                        var description = ReadLine();
+                        empOld.SetHoursOfWeek(hours, description);
                         var empNew = empOld;
                         employees.Remove(empOld);
                         employees.Add(empNew);
-                        WriteLine("Sended!!");
+                        WriteLine("Submitted!!");
                     }
                 }
-
-
-                WriteLine("Do you want to do something else? (y/n)");
+                WriteLine("Do you want to return to Sign in menu? (y/n)");
                 var respond = ReadLine();
                 if (respond == "n") band = false;
             } while (band == true);
-
         }
     }
 }
-
-
