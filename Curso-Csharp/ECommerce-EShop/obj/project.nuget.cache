@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQZPEomQHP551iIBURZeG6i9gY+nK0SXTnfEYZOHGub0eQL36rHTfra4eU/VPxscY3J5jA9vDT0IegNfcfgPxg==",
+  "dgSpecHash": "wEfLwG5HJC3pm+n6CtsTpbbOxoaj8tDV/sAo+rCsDtshg3S4HvPj/pVWKPB377EYE5sz7EJq7zvSi9a+qFspOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\ECommerceEShop.csproj",
+  "projectFilePath": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\ECommerce-EShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conej\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

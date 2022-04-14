@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq-dia1-ejercicio1", "Lin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq-dia2", "Linq-dia2\Linq-dia2.csproj", "{261FD58D-4855-439C-9676-CE1313336957}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerceEShop", "LinQ-ECommerceEjemplo\ECommerceEShop.csproj", "{895FA1BA-5935-456A-9C4E-B9FD01CAA709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce-EShop", "LinQ-ECommerceEjemplo\ECommerce-EShop.csproj", "{895FA1BA-5935-456A-9C4E-B9FD01CAA709}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce-Data", "ECommerce-Data\ECommerce-Data.csproj", "{84D2BED0-EAF8-4DFC-A523-4DDCFFA6DF9C}"
 EndProject

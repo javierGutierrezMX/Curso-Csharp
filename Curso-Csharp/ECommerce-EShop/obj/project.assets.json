@@ -716,9 +716,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\ECommerceEShop.csproj",
-      "projectName": "ECommerceEShop",
-      "projectPath": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\ECommerceEShop.csproj",
+      "projectUniqueName": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\ECommerce-EShop.csproj",
+      "projectName": "ECommerce-EShop",
+      "projectPath": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\ECommerce-EShop.csproj",
       "packagesPath": "C:\\Users\\conej\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\LinQ-ECommerceEjemplo\\obj\\",
       "projectStyle": "PackageReference",
