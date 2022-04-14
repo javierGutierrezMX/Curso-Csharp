@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hPHqyMNJbsCIkcAzbgg8i+7dut8f5P7B9kfXkSTMRXb57ibXnRrf0w8dPdG3BoSolM3oMoXeTVcQgdQFabdXVg==",
+  "dgSpecHash": "SRH+EaWDc+3a/4t4JMlUbeIJ5tFYVUqanfu5FTc2mvuezDRMq1c6dYRfGUA82P9Ybp0BnKgQFooc1H7T9a+Yrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\conej\\Desktop\\SGI_LocalRepo\\javierGutierrezMX\\Curso-Csharp\\Curso-Csharp\\Curso-Csharp\\Curso-Csharp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\conej\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
@@ -13,6 +14,7 @@
     "C:\\Users\\conej\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\conej\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\conej\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",

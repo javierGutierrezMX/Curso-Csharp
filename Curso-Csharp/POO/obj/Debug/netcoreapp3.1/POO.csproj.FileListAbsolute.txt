@@ -11,4 +11,3 @@ C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\POO\obj\Debug\netcoreapp3.1\POO.dll
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\POO\obj\Debug\netcoreapp3.1\POO.pdb
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
-C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\POO\obj\Debug\netcoreapp3.1\POO.csproj.AssemblyReference.cache

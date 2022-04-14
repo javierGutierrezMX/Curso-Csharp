@@ -1,0 +1,13 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\bin\Debug\netcoreapp3.1\ECommerce-Business.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\bin\Debug\netcoreapp3.1\ECommerce-Business.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\bin\Debug\netcoreapp3.1\ECommerce-Business.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\bin\Debug\netcoreapp3.1\ECommerce-Data.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\bin\Debug\netcoreapp3.1\ECommerce-Data.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Business\obj\Debug\netcoreapp3.1\ECommerce-Business.csproj.CopyComplete

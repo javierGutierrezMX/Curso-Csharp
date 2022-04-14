@@ -10,6 +10,7 @@ C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.AssemblyInfoInputs.cache
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.AssemblyInfo.cs
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.csproj.CopyComplete
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.dll
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.pdb
 C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\SistemaControlEmpleados\obj\Debug\netcoreapp3.1\SistemaControlEmpleados.genruntimeconfig.cache

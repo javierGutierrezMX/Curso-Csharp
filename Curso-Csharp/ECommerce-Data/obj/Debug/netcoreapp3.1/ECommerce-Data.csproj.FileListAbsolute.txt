@@ -1,0 +1,10 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\bin\Debug\netcoreapp3.1\ECommerce-Data.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\bin\Debug\netcoreapp3.1\ECommerce-Data.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\bin\Debug\netcoreapp3.1\ECommerce-Data.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.csproj.AssemblyReference.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\ECommerce-Data\obj\Debug\netcoreapp3.1\ECommerce-Data.pdb

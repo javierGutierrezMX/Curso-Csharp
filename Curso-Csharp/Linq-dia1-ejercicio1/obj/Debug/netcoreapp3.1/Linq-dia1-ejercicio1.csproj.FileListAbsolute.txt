@@ -1,0 +1,13 @@
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\bin\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.exe
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\bin\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.deps.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\bin\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.runtimeconfig.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\bin\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.runtimeconfig.dev.json
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\bin\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\bin\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.AssemblyInfoInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.AssemblyInfo.cs
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.dll
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.pdb
+C:\Users\conej\Desktop\SGI_LocalRepo\javierGutierrezMX\Curso-Csharp\Curso-Csharp\Linq-dia1-ejercicio1\obj\Debug\netcoreapp3.1\Linq-dia1-ejercicio1.genruntimeconfig.cache
